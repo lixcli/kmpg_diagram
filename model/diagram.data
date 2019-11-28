@@ -1,0 +1,5 @@
+classes = 1
+train  = /home/gfl/LxcTest/diagram_kpmg/train.txt
+valid  = /home/gfl/LxcTest/diagram_kpmg/2019_val.txt
+names = /home/gfl/LxcTest/diagram_kpmg/model/diagram.names
+backup = backup

@@ -1,0 +1,45 @@
+*txt
+*xml
+*.weights
+*.jpg
+model/darknet53.conv.74
+model/darknet53.conv.74.1
+darknet/
+test*/
+tmp/
+out/
+final_model/
+logdir/
+backup/
+backup_1/
+.vscode/
+raw_label/
+raw_data/
+
+# *.o
+# *.dSYM
+# *.csv
+# *.out
+# *.png
+# *.jpg
+# *.pyc
+# darknet/old/
+# darknet/mnist/
+# darknet/data/
+# darknet/caffe/
+# darknet/grasp/
+# darknet/images/
+# darknet/opencv/
+# darknet/convnet/
+# darknet/decaf/
+# darknet/submission/
+# darknet/cfg/
+# darknet
+# darknet/.fuse*
+
+# # OS Generated #
+# .DS_Store*
+# ehthumbs.db
+# Icon?
+# Thumbs.db
+# *.swp
