@@ -28,9 +28,12 @@ DEBUG=0  #如果使用DEBUG设置为1，否则为0
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 ```
 成功的话，可以再darknet/preditions看到一张预测效果图
-![](img/preditions.jpg)
-wget https://pjreddie.com/media/files/yolov3.weights
+![](img/preditions.jpg)  
 
+**获取与训练模型权重**  
+```shell
+wget https://pjreddie.com/media/files/yolov3.weights
+```
 
 
 
