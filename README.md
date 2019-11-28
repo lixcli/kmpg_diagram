@@ -1,13 +1,3 @@
----
-title: yolov3使用 
-date:
-subtitle:
-banner_img: yolo.png
-top:
-tags:
-- 学习
-categories: 学习
----
 # yolov3使用体验
 ---
 [官网链接](https://pjreddie.com/darknet/yolo/)
