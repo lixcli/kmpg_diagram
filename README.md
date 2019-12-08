@@ -1,3 +1,4 @@
+学校毕马威比赛时做的一个小项目，没有进决赛，有点遗憾...😢
 # yolov3使用体验
 ---
 [官网链接](https://pjreddie.com/darknet/yolo/)
